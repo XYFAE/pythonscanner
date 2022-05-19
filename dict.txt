@@ -1,0 +1,8 @@
+admin/
+admin/index.php
+sfsd
+fs
+df
+sfsd
+Zxasda
+sfsdasd
